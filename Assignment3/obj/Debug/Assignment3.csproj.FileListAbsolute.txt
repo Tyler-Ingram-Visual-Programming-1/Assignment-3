@@ -1,0 +1,20 @@
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\marcs\Desktop\SPRING 2021\Tyler Ingram\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
